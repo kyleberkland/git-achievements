@@ -2,6 +2,7 @@
 <title>Kyle's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 971 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 967 times with git add -p.</description></item>
 <item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Historian (Level 1)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 </channel></rss>
